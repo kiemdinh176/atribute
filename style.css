@@ -1,0 +1,23 @@
+[href] {
+  color: aquamarine;
+}
+a[title~="tuhoc"] {
+  color: darkmagenta;
+}
+a[title*="tuhcc"] {
+  color: rgb(40, 76, 182);
+}
+a[title|="tu-hoc"] {
+  color: deepskyblue;
+}
+a[title^="a"] {
+  color: chartreuse;
+}
+a[title$="1"] {
+  color: coral;
+}
+h3 {
+  font-display: initial;
+  font-size: 22px;
+  background-color: aquamarine;
+}
